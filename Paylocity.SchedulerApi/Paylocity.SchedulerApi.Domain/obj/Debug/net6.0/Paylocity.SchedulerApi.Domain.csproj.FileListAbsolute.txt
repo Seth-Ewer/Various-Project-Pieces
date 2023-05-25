@@ -1,0 +1,12 @@
+D:\Projects\Mark_Ewer_Notes\Spikes\Paylocity.SchedulerApi\Paylocity.SchedulerApi.Domain\bin\Debug\net6.0\Paylocity.SchedulerApi.Domain.deps.json
+D:\Projects\Mark_Ewer_Notes\Spikes\Paylocity.SchedulerApi\Paylocity.SchedulerApi.Domain\bin\Debug\net6.0\Paylocity.SchedulerApi.Domain.dll
+D:\Projects\Mark_Ewer_Notes\Spikes\Paylocity.SchedulerApi\Paylocity.SchedulerApi.Domain\bin\Debug\net6.0\Paylocity.SchedulerApi.Domain.pdb
+D:\Projects\Mark_Ewer_Notes\Spikes\Paylocity.SchedulerApi\Paylocity.SchedulerApi.Domain\obj\Debug\net6.0\Paylocity.SchedulerApi.Domain.csproj.AssemblyReference.cache
+D:\Projects\Mark_Ewer_Notes\Spikes\Paylocity.SchedulerApi\Paylocity.SchedulerApi.Domain\obj\Debug\net6.0\Paylocity.SchedulerApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mark_Ewer_Notes\Spikes\Paylocity.SchedulerApi\Paylocity.SchedulerApi.Domain\obj\Debug\net6.0\Paylocity.SchedulerApi.Domain.AssemblyInfoInputs.cache
+D:\Projects\Mark_Ewer_Notes\Spikes\Paylocity.SchedulerApi\Paylocity.SchedulerApi.Domain\obj\Debug\net6.0\Paylocity.SchedulerApi.Domain.AssemblyInfo.cs
+D:\Projects\Mark_Ewer_Notes\Spikes\Paylocity.SchedulerApi\Paylocity.SchedulerApi.Domain\obj\Debug\net6.0\Paylocity.SchedulerApi.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Mark_Ewer_Notes\Spikes\Paylocity.SchedulerApi\Paylocity.SchedulerApi.Domain\obj\Debug\net6.0\Paylocity.SchedulerApi.Domain.dll
+D:\Projects\Mark_Ewer_Notes\Spikes\Paylocity.SchedulerApi\Paylocity.SchedulerApi.Domain\obj\Debug\net6.0\refint\Paylocity.SchedulerApi.Domain.dll
+D:\Projects\Mark_Ewer_Notes\Spikes\Paylocity.SchedulerApi\Paylocity.SchedulerApi.Domain\obj\Debug\net6.0\Paylocity.SchedulerApi.Domain.pdb
+D:\Projects\Mark_Ewer_Notes\Spikes\Paylocity.SchedulerApi\Paylocity.SchedulerApi.Domain\obj\Debug\net6.0\ref\Paylocity.SchedulerApi.Domain.dll

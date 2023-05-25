@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paylocity.SchedulerApi.Domain", "Paylocity.SchedulerApi.Domain\Paylocity.SchedulerApi.Domain.csproj", "{1B2DD7F1-699D-47FF-8FF7-001B33634732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paylocity.SchedulerApi.Domain.Tests", "Paylocity.SchedulerApi.Domain.Tests\Paylocity.SchedulerApi.Domain.Tests.csproj", "{69F7193E-3D74-4390-8DBB-BF3572B409C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B2DD7F1-699D-47FF-8FF7-001B33634732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2DD7F1-699D-47FF-8FF7-001B33634732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2DD7F1-699D-47FF-8FF7-001B33634732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2DD7F1-699D-47FF-8FF7-001B33634732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F7193E-3D74-4390-8DBB-BF3572B409C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F7193E-3D74-4390-8DBB-BF3572B409C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F7193E-3D74-4390-8DBB-BF3572B409C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F7193E-3D74-4390-8DBB-BF3572B409C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE33F33-77FB-49FC-BAEF-E94D995AD694}
+	EndGlobalSection
+EndGlobal
